@@ -51,10 +51,10 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/NonSenseHacker/UltimateBomb.git
 cd UltimateBoomb
 chmod +x UltimateBoomb.sh
-./UltimateBoomb.sh
+bash UltimateBoomb.sh
 ```
 
 ### > For Linux:
@@ -69,7 +69,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/NonSenseHacker/UltimateBomb.git
 cd UltimateBoomb
 chmod +x UltimateBoomb.sh
 sudo bash UltimateBoomb.sh
